@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm a cloud engineer at FICO, mainly work with high performance event-streaming infrastructure
+### I'm a cloud engineer at FICO, I mainly work with high performance event-streaming infrastructure
 <!--
 **om22shree/om22shree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
